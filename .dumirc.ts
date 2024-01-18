@@ -5,7 +5,7 @@ export default defineConfig({
     name: 'Form',
     footer: false,
   },
-  logo: '/form-example/logo.png',
+  logo: false,
   favicons: ['/form-example/logo.png'],
   base: '/form-example/',
   publicPath: '/form-example/',
