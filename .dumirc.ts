@@ -6,7 +6,7 @@ export default defineConfig({
     footer: false,
   },
   logo: false,
-  favicons: ['/form-example/logo.png'],
+  favicons: false,
   base: '/form-example/',
   publicPath: '/form-example/',
 });

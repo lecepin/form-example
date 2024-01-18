@@ -1,5 +1,5 @@
 ---
-title: A static site based on dumi
+title: Form Example
 hero:
   title: Site
 ---
